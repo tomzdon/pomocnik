@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca7d999f-2173-4b68-b612-f7220dbb22eb" name="Default Changelist" comment="funkcja glowna">
+      <change afterPath="$PROJECT_DIR$/src/components/ingredients/RecipesAll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ingredients/SingleGroat.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/All.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/All.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/How.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/How.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Seek.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Seek.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/a" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ingredients/Groats.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ingredients/Recipes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ingredients/Recipes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ingredients/Vegetables.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ingredients/Vegetables.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/example.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1mABV8CUa0qN1sLbhu78bbBiw1k" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/ingredients" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\skoru\Desktop\pomocnik_kuchenny\src\components\ingredients" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Tomek\Desktop\pomocnik_kuchenny\src\components\ingredients" />
+      <recent name="C:\Users\Tomek\Desktop\pomocnik_kuchenny\src\components" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca7d999f-2173-4b68-b612-f7220dbb22eb" name="Default Changelist" comment="" />
+      <created>1608926536135</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608926536135</updated>
+      <workItem from="1608926537833" duration="4731000" />
+      <workItem from="1608937772351" duration="6311000" />
+      <workItem from="1608989187113" duration="9271000" />
+      <workItem from="1609017147816" duration="12595000" />
+      <workItem from="1609078824577" duration="7656000" />
+      <workItem from="1609092194710" duration="6727000" />
+      <workItem from="1609182975201" duration="8228000" />
+      <workItem from="1609279894471" duration="1379000" />
+      <workItem from="1609585145352" duration="3239000" />
+      <workItem from="1609668270336" duration="12442000" />
+      <workItem from="1609684415549" duration="4042000" />
+      <workItem from="1609710425437" duration="1351000" />
+      <workItem from="1609714639753" duration="5775000" />
+      <workItem from="1609926282302" duration="7710000" />
+      <workItem from="1610185903290" duration="6216000" />
+      <workItem from="1610286883135" duration="816000" />
+      <workItem from="1610305424631" duration="13474000" />
+      <workItem from="1610385280342" duration="2910000" />
+      <workItem from="1610398835939" duration="7787000" />
+      <workItem from="1610476296552" duration="6739000" />
+      <workItem from="1610655991956" duration="5791000" />
+      <workItem from="1610785364213" duration="4527000" />
+      <workItem from="1610829036629" duration="1314000" />
+      <workItem from="1610901243540" duration="7108000" />
+      <workItem from="1611091249864" duration="6057000" />
+      <workItem from="1611168304065" duration="595000" />
+      <workItem from="1611184544088" duration="403000" />
+      <workItem from="1611192830201" duration="608000" />
+      <workItem from="1611260161725" duration="3121000" />
+      <workItem from="1611323420443" duration="7464000" />
+      <workItem from="1611340328872" duration="14416000" />
+      <workItem from="1611411796683" duration="20269000" />
+      <workItem from="1611493178483" duration="597000" />
+      <workItem from="1611581093609" duration="4761000" />
+    </task>
+    <task id="LOCAL-00001" summary="ok">
+      <created>1608942873427</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608942873427</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ok">
+      <created>1609020303899</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609020303899</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ok">
+      <created>1609034938992</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1609034938992</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ok">
+      <created>1609282868120</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1609282868120</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ok">
+      <created>1609587685783</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1609587685783</updated>
+    </task>
+    <task id="LOCAL-00006" summary="rejestracja i login - firebase">
+      <created>1609710862144</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1609710862144</updated>
+    </task>
+    <task id="LOCAL-00007" summary="rejestracja i login - firebase">
+      <created>1609710885112</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1609710885112</updated>
+    </task>
+    <task id="LOCAL-00008" summary="pierwsza funkcja - start">
+      <created>1610318710950</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1610318710951</updated>
+    </task>
+    <task id="LOCAL-00009" summary="pierwsza funkcja - start">
+      <created>1610318726254</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1610318726254</updated>
+    </task>
+    <task id="LOCAL-00010" summary="przed usuwaniem">
+      <created>1610478177559</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1610478177559</updated>
+    </task>
+    <task id="LOCAL-00011" summary="pierwsza funkcja">
+      <created>1610482767992</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1610482767992</updated>
+    </task>
+    <task id="LOCAL-00012" summary="problem">
+      <created>1610790842127</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1610790842128</updated>
+    </task>
+    <task id="LOCAL-00013" summary="przerobione">
+      <created>1611094356430</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1611094356430</updated>
+    </task>
+    <task id="LOCAL-00014" summary="funkcja glowna">
+      <created>1611329779293</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1611329779294</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="ok" />
+    <MESSAGE value="rejestracja i login - firebase" />
+    <MESSAGE value="pierwsza funkcja - start" />
+    <MESSAGE value="przed usuwaniem" />
+    <MESSAGE value="pierwsza funkcja" />
+    <MESSAGE value="problem" />
+    <MESSAGE value="przerobione" />
+    <MESSAGE value="funkcja glowna" />
+    <option name="LAST_COMMIT_MESSAGE" value="funkcja glowna" />
+  </component>
+</project>

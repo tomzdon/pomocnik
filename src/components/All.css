@@ -1,0 +1,26 @@
+body {
+  background-color: white;
+}
+
+.description {
+  text-align: center;
+  margin-left: 250px;
+  margin-right: 250px;
+}
+
+.seekbutton {
+  text-align: center;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: red;
+}
+
+a:hover {
+  text-decoration: none !important;
+}
